@@ -10,3 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# StatusCode-0 Hackathon
+
+## Members:
+1) Vivek Anand
+2) Dishant Yadav
+3) Naveen Kumar
+4) Saurav Mishra
+5) Dipanshu Kumar Mahato
